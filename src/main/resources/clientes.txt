@@ -1,0 +1,4 @@
+ID-20241130010029-2d3844c9-|-erick-|-briones-|-sanchez-|-naucalpan-|-55 0000 0000-|-null-|-null-|-erickalan518@gmail.com-|-password-|-0-|-0
+ID-20241130010140-b8660bda-|-alan-|-briones-|-sanchez-|-neza-|-55 8888 8888-|-null-|-null-|-alanb@gmail.com-|-password-|-0-|-0
+ID-20241130010347-1503e29c-|-ariel-|-briones-|-sanchez-|-naucalpan-|-55 88877 6655-|-null-|-null-|-ariel@gmail.com-|-password-|-0-|-0
+ID-20241130010507-4186be32-|-fernanda-|-briones-|-sanchez-|-azcapotzalco-|-77 6655 4433-|-null-|-null-|-fer@gmail.com-|-password-|-0-|-0
